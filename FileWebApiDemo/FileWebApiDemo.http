@@ -1,0 +1,6 @@
+@FileWebApiDemo_HostAddress = http://localhost:5100
+
+GET {{FileWebApiDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
